@@ -1,12 +1,12 @@
-#JAVA 4AHET 2022-23
+# JAVA 4AHET 2022-23
 
-*Git:
+* Git:
 
 # verwendete Techniken 
-*git
-*maven
-*Java 17
-*Spring-Boot
-*regular expressions
-*Unit Tests
-*Lombok
+* git
+* maven
+* Java 17
+* Spring-Boot
+* regular expressions
+* Unit Tests
+* Lombok
